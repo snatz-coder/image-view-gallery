@@ -8,6 +8,7 @@ import { GalleryComponent } from './gallery/gallery.component' ;
 import { NgImageSliderModule } from 'ng-image-slider';
 
 
+
 @NgModule({
   imports: [
     BrowserModule,

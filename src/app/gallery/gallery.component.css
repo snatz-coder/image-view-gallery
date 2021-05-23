@@ -1,5 +1,12 @@
-.list-center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+.margin-auto {
+    margin: 0px auto;
+}
+
+.demo-div {
+    /* padding: 10px 10px 10px 10px; */
+    box-sizing: border-box;
+    border-color: #CFCFCF;
+    margin-top: 10%;
+}
+
+
